@@ -1,0 +1,1 @@
+snarkjs groth16 prove circuit_0001.zkey ./circuit_js/witness.wtns proof.json public.json

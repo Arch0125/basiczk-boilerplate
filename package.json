@@ -1,0 +1,20 @@
+{
+  "name": "basiczk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "bash compile.sh",
+    "witness": "bash genWitness.sh",
+    "phase1": "bash phase1.sh",
+    "phase2": "bash phase2.sh",
+    "proof": "bash genProof.sh",
+    "verify": "bash verify.sh",
+    "contract": "bash createContract.sh",
+    "reset": "bash reset.sh",
+    "input": "bash contractInput.sh"
+  },
+  "author": "",
+  "license": "ISC"
+}
